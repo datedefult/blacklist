@@ -1,0 +1,4 @@
+[tool.aerich]
+tortoise_orm = "connections.mysql_config3.TORTOISE_ORM3"
+location = "./migrations"
+src_folder = "./."
